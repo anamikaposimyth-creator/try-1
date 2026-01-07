@@ -1,1 +1,1 @@
-// This file is no longer used. See index.html.
+// Vanilla JS logic is now handled in index.html directly.
